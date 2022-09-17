@@ -1,1 +1,2 @@
 # HackerRank
+Competitive programming
