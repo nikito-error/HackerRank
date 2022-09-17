@@ -1,2 +1,2 @@
-# HackerRank
-Competitive programming
+logo
+My HackerRank Solutions
