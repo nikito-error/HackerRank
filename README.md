@@ -4,5 +4,5 @@
 
 
 
-#My HackerRank Solutions
+# My HackerRank Solutions
 This repository contains my solutions for the challenges hosted @ HackerRank.com Most of the problems are solved in Java.
